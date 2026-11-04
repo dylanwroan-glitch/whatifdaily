@@ -14,12 +14,12 @@ Channel lane: mind-blowing science, engineering, history and "what if" scenarios
 - Today's slot = 6:00 PM America/Chicago. If an entry in `queue.json` is already `scheduled` for today, the slot is taken: skip to step 2.
 - Otherwise take the oldest `ready` entry and schedule it with `createScheduledPost` (settings below). If 6:00 PM is less than 20 minutes away or already past, use now + 20 minutes.
 - On success set `status` to `scheduled`, store `postDate` and `plannerUrl`, add a row to `log.md`, commit, push.
-- If Metricool rejects the media URL, commit the MP4 into `videos/` and retry once with its raw URL `https://raw.githubusercontent.com/dylanwroan-glitch/whatifdaily/main/videos/<file>`.
+- Metricool copies the video into its own storage when you schedule (the response's `media` shows a `static.metricool.com` URL). Once that happens, `git rm` the file from `videos/` in the same commit so the repo stays light.
 
 ### 2. Make the next video
 Follow the sections below, then:
-- Upload: `gh release create v<YYYY-MM-DD>-<slug> <file>.mp4 --repo dylanwroan-glitch/whatifdaily --title "<title>" --notes "<sources>"`. Media URL: `https://github.com/dylanwroan-glitch/whatifdaily/releases/download/v<YYYY-MM-DD>-<slug>/<file>.mp4`.
-- Add an entry to `queue.json` with `status: "ready"`, then commit and push.
+- Host: commit the upload file to `videos/<YYYY-MM-DD>-<slug>.mp4` on `main` and push. GitHub releases are blocked for these sessions. Media URL: `https://raw.githubusercontent.com/dylanwroan-glitch/whatifdaily/main/videos/<file>`. Keep the upload file at 25 MB or less (`-crf 23 -preset medium -maxrate 3.5M -bufsize 7M`) so the repo history stays small, and tell the user if the repo passes 1 GB (`gh api repos/dylanwroan-glitch/whatifdaily --jq .size` is in KB).
+- Add an entry to `queue.json` (same fields as the existing entries) with `status: "ready"`, then commit and push. Commit straight to `main`: this repo is the pipeline's storage.
 - If today's slot is still empty, schedule this new video right away (step 1 rules).
 
 ### 3. Report
@@ -74,4 +74,4 @@ YouTube doesn't monetize mass-produced or repetitive content (templated videos w
 - `kit/` holds the original WebGL2 engine (`engine.js`), objects (`world.js`), the copper story (`scene.js`), captions and HUD (`hud.js`, `index.html`), the renderer driver (`render.mjs`) and the synthesized soundtrack (`audio.py`). Copy it to a fresh work folder for each video and rewrite `scene.js`/`hud.js`/`audio.py` for the new story.
 - The sandbox blocks outside JS libraries and often pip/npm. Chrome, Playwright (`/opt/npm-tools/node_modules/playwright/index.mjs`), ffmpeg, numpy and scipy are there.
 - Speed rules that matter: one shader variant per set of material kinds, `discard` only in the cut variant, cull and sort city buildings every frame, render the 3D at 720x1280 under the 1080x1920 HUD. Expect about 1–2 s per frame; keep scenes light enough that the render finishes in under 45 minutes.
-- Render each shot to its own MP4 (JPEG frames piped to ffmpeg), concat with `-c copy`, mux the audio, lower it ~1.5 dB if AAC peaks at 0 dB, then make the upload copy (`-crf 21 -preset medium`, about 45 MB).
+- Render each shot to its own MP4 (JPEG frames piped to ffmpeg), concat with `-c copy`, mux the audio, lower it ~1.5 dB if AAC peaks at 0 dB, then make the upload copy (25 MB or less, settings above).
