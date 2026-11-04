@@ -20,6 +20,7 @@
     "status": "scheduled",
     "postDate": "2026-11-04T18:00:00-06:00",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-5202755937602680592",
-    "metricoolPostId": 416145564
+    "metricoolPostId": 416145564,
+    "note": "Metricool holds its own copy (static.metricool.com); repo file removed."
   }
 ]

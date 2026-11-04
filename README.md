@@ -6,4 +6,4 @@ Daily code-built YouTube Shorts. A scheduled Claude session follows [PLAYBOOK.md
 - `queue.json`: finished videos waiting to post
 - `log.md`: everything posted so far
 - `kit/`: the original 3D engine, scene, captions, renderer and soundtrack code
-- Releases: one per video; each release holds the MP4 that Metricool uploads to YouTube
+- `videos/`: the next video waiting to post. Metricool copies each file when it's scheduled, then the run deletes it here to keep the repo light.

@@ -19,7 +19,8 @@ Channel lane: mind-blowing science, engineering, history and "what if" scenarios
 ### 2. Make the next video
 Follow the sections below, then:
 - Host: commit the upload file to `videos/<YYYY-MM-DD>-<slug>.mp4` on `main` and push. GitHub releases are blocked for these sessions. Media URL: `https://raw.githubusercontent.com/dylanwroan-glitch/whatifdaily/main/videos/<file>`. Keep the upload file at 25 MB or less (`-crf 23 -preset medium -maxrate 3.5M -bufsize 7M`) so the repo history stays small, and tell the user if the repo passes 1 GB (`gh api repos/dylanwroan-glitch/whatifdaily --jq .size` is in KB).
-- Add an entry to `queue.json` (same fields as the existing entries) with `status: "ready"`, then commit and push. Commit straight to `main`: this repo is the pipeline's storage.
+- Add an entry to `queue.json` (same fields as the existing entries) with `status: "ready"`, then commit and push. Commit straight to `main`: this repo is the pipeline's storage. Don't create other branches: these sessions can't delete branches, so they'd pile up.
+- Pushes sometimes fail with a transient server error; retry the same push up to 3 times before treating it as a failure.
 - If today's slot is still empty, schedule this new video right away (step 1 rules).
 
 ### 3. Report
