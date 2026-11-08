@@ -17,10 +17,33 @@
       "pennies"
     ],
     "category": "SCIENCE_TECHNOLOGY",
-    "status": "scheduled",
+    "status": "published",
     "postDate": "2026-11-04T18:00:00-06:00",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-5202755937602680592",
     "metricoolPostId": 416145564,
-    "note": "Metricool holds its own copy (static.metricool.com); repo file removed."
+    "youtubeUrl": "https://www.youtube.com/shorts/BqL5TPm9IHg",
+    "note": "Metricool holds its own copy (static.metricool.com); repo file removed. Metricool reports it PUBLISHED."
+  },
+  {
+    "id": "2026-11-08-lightning-facts",
+    "format": "myth-vs-fact",
+    "title": "5 lightning \"facts.\" Only one is true.",
+    "file": "2026-11-08-lightning-facts.mp4",
+    "release": null,
+    "url": "https://raw.githubusercontent.com/dylanwroan-glitch/whatifdaily/main/videos/2026-11-08-lightning-facts.mp4",
+    "description": "Only one of these 5 lightning \"facts\" is true. Can you guess which before the reveal?\n\nFour are myths: the same place twice, rubber tires, no rain overhead and \"heat lightning.\" Stay for the bonus: the 5-second count that tells you how far away a storm is.\n\nSources: National Weather Service (How Hot Is Lightning?; Understanding Lightning: Thunder; NWS Fort Worth Myths vs. Facts), MPR News and Live Science (Empire State Building strikes).\n\n#shorts #lightning #mythvsfact #science #weather",
+    "tags": [
+      "lightning",
+      "lightning myths",
+      "myth vs fact",
+      "thunderstorm",
+      "heat lightning",
+      "empire state building",
+      "weather",
+      "science"
+    ],
+    "category": "SCIENCE_TECHNOLOGY",
+    "status": "ready",
+    "facts": "builds/2026-11-08-lightning-facts/facts.md"
   }
 ]
