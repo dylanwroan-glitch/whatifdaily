@@ -43,11 +43,12 @@
       "science"
     ],
     "category": "SCIENCE_TECHNOLOGY",
-    "status": "scheduled",
+    "status": "published",
     "postDate": "2026-11-08T18:00:00-06:00",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-8077389489859703737",
     "metricoolPostId": 420623843,
     "facts": "builds/2026-11-08-lightning-facts/facts.md",
-    "note": "Metricool holds its own copy (static.metricool.com); repo file removed."
+    "note": "Metricool holds its own copy (static.metricool.com); repo file removed. Metricool reports it PUBLISHED.",
+    "youtubeUrl": "https://www.youtube.com/shorts/y5A5y8id8yk"
   }
 ]

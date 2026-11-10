@@ -3,7 +3,7 @@
 | Date posted | Format | Title | Status | Link |
 |---|---|---|---|---|
 | 2026-11-04 6:00 PM CT | what-if | What if all copper disappeared for 5 seconds? | published | [YouTube](https://www.youtube.com/shorts/BqL5TPm9IHg) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-5202755937602680592) |
-| 2026-11-08 6:00 PM CT | myth-vs-fact | 5 lightning "facts." Only one is true. | scheduled | [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-8077389489859703737) |
+| 2026-11-08 6:00 PM CT | myth-vs-fact | 5 lightning "facts." Only one is true. | published | [YouTube](https://www.youtube.com/shorts/y5A5y8id8yk) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-8077389489859703737) |
 
 ## Run notes
 
@@ -17,3 +17,9 @@
 - Quality gate: passed. Contact sheets of 27 stills + 18 frames from the final file; reframed the car shots so the captions no longer cover the tires, lifted the distant storm so it reads between flashes, kept the HUD out of the right 140 px. Final upload file: 1080x1920, 30 fps, 1722 frames, 57.4 s, AAC stereo (peak -2 dB), 24.6 MB.
 - Scheduled with Metricool for 2026-11-08 6:00 PM CT (post 420623843); Metricool copied the file to static.metricool.com, so videos/2026-11-08-lightning-facts.mp4 was removed.
 - Nothing is queued for tomorrow; tomorrow's run will make its own video and schedule it the same day.
+
+### 2026-11-10 (scheduled run: fired 2:42 AM CT, actually ran from 5:06 PM CT)
+- The 2:42 AM firing failed after 7 seconds with "usage limit reached" (scheduled-task status), so nothing ran until the session restarted at 5:06 PM CT. No run left a commit or post on Nov 5–7, 9 or 10 (the Nov 8 run was the only one that finished after Nov 4); the only failure reason on record is today's usage limit.
+- Metricool brand 7513806: YouTube connected. Both Shorts published: copper (Nov 4) and lightning (Nov 8, youtube.com/shorts/y5A5y8id8yk); lightning marked `published` in queue.json.
+- Queue had no `ready` video and nothing scheduled for today, and 6:00 PM was too close to make a video first, so today's slot goes to the video this run makes, scheduled for now + 20 minutes when it passes the quality gate.
+
