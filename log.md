@@ -5,6 +5,7 @@
 | 2026-11-04 6:00 PM CT | what-if | What if all copper disappeared for 5 seconds? | published | [YouTube](https://www.youtube.com/shorts/BqL5TPm9IHg) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-5202755937602680592) |
 | 2026-11-08 6:00 PM CT | myth-vs-fact | 5 lightning "facts." Only one is true. | published | [YouTube](https://www.youtube.com/shorts/y5A5y8id8yk) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-8077389489859703737) |
 | 2026-11-10 6:38 PM CT | scale-shock | If the Sun were a door, where's Earth? | published | [YouTube](https://www.youtube.com/shorts/7mpDBn5gpLo) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-3128963244922811315) |
+| 2026-11-11 6:00 PM CT | hidden-in-plain-sight | Why does your watch count to 32,768? | scheduled | [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=3150127056820193848) |
 
 ## Run notes
 
@@ -30,3 +31,13 @@
 - Scheduled with Metricool for 2026-11-10 6:38 PM CT (now + 20 min; post 423851070); Metricool copied the file to static.metricool.com, so videos/2026-11-10-sun-door.mp4 was removed.
 - Nothing is queued for tomorrow; tomorrow's run makes and schedules its own video.
 
+### 2026-11-11 (scheduled run, 2:45 AM CT)
+- The repo was already cloned at /home/claude/whatifdaily (detached HEAD at origin/main) and in scope; the `add_repo` tool wasn't offered in this session, so the run checked out `main` at origin/main (96f934f) and used that clone.
+- Metricool brand 7513806: YouTube connected. The door-Sun Short (Nov 10) shows PUBLISHED (youtube.com/shorts/7mpDBn5gpLo); marked `published` in queue.json.
+- The queue had no `ready` video and nothing was scheduled for Nov 11, so today's slot went to the video this run made, at 6:00 PM CT.
+- Idea: hidden in plain sight (last format was scale shock): a quartz-watch teardown asking why it counts to 32,768. Searches found well-known long explainers on how quartz watches work (engineerguy's "its heart beats 32,768 times a second", Steve Mould) and an engineerguy short, so the angle is the counting question, the 15 halvings shown and heard one by one, and the twist that the second itself comes from cesium (NIST-F4's 100-million-years statement).
+- Sources: NIST "Timekeeping and clocks FAQs" (usually 32,768 Hz; "counted" by dividing by 32,768; the SI second = 9,192,631,770 cesium cycles since 1967), NIST's 28 April 2025 NIST-F4 release (started 100 million years ago, off by less than a second today), Live Science (tuning-fork shape, piezoelectricity). Britannica couldn't be fetched this run. The halving is labelled "MATH · 32,768 = 2¹⁵" on screen. No quartz accuracy figure is shown: NIST gives only a hypothetical. Fact sheet: builds/2026-11-11-watch-32768/facts.md.
+- Build: new world (studio watch with a sunburst dial and leather strap; an exploded movement with battery, coil, rotor, gears, circuit board and crystal can; a quartz tuning fork vibrating in slow motion; a 15-stage divider "chip city" with pulse streams; an atomic-fountain lab with a stylized cesium atom; a dusk plain with a sauropod). The soundtrack drops one octave per halving (16,384 Hz down to 32 Hz), then click trains at 16, 8, 4 and 2 per second, then the tick. 21 shots, cuts every 1.9–4.0 s, 55.0 s.
+- Quality gate: passed. Stills contact sheets over three passes (fork reframed top-down so the U shape reads and its glow toned down, chip pattern dimmed with runway cameras, exploded view moved above the caption band, case back now flies off sideways, battery label shown only once the battery is in frame), then 14 frames from the final file. Final upload file: 1080x1920, 30 fps, 1650 frames, 55.0 s, AAC stereo (peak -0.7 dB after a -1.5 dB trim), 23.5 MB.
+- Scheduled with Metricool for 2026-11-11 6:00 PM CT (post 424228078); Metricool copied the file to static.metricool.com, so videos/2026-11-11-watch-32768.mp4 was removed. (The raw GitHub URL can't be opened from this sandbox, proxy 403; Metricool fetched it fine.)
+- Nothing is queued for tomorrow; tomorrow's run makes and schedules its own video.

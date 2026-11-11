@@ -100,7 +100,11 @@
       "science"
     ],
     "category": "SCIENCE_TECHNOLOGY",
-    "status": "ready",
-    "facts": "builds/2026-11-11-watch-32768/facts.md"
+    "status": "scheduled",
+    "facts": "builds/2026-11-11-watch-32768/facts.md",
+    "postDate": "2026-11-11T18:00:00-06:00",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=3150127056820193848",
+    "metricoolPostId": 424228078,
+    "note": "Metricool holds its own copy (static.metricool.com); repo file removed."
   }
 ]
