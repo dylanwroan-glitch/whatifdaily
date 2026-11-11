@@ -50,5 +50,28 @@
     "facts": "builds/2026-11-08-lightning-facts/facts.md",
     "note": "Metricool holds its own copy (static.metricool.com); repo file removed. Metricool reports it PUBLISHED.",
     "youtubeUrl": "https://www.youtube.com/shorts/y5A5y8id8yk"
+  },
+  {
+    "id": "2026-11-10-sun-door",
+    "format": "scale-shock",
+    "title": "If the Sun were a door, where's Earth?",
+    "file": "2026-11-10-sun-door.mp4",
+    "release": null,
+    "url": "https://raw.githubusercontent.com/dylanwroan-glitch/whatifdaily/main/videos/2026-11-10-sun-door.mp4",
+    "description": "If the Sun were as tall as your front door, where would Earth be?\n\nNASA says Earth would be the size of a nickel. Shrink everything else to match and Earth sits 215 meters down the street, Neptune 6.5 km away, and the nearest star 57,600 km away: 1.4 times around the whole planet.\n\nSources: NASA Science (Earth facts, Sun facts, Neptune facts), NASA Space Place (How Big is the Sun?). Distances are scale math from NASA figures.\n\n#shorts #space #sun #solarsystem #astronomy",
+    "tags": [
+      "sun",
+      "earth",
+      "solar system",
+      "scale model",
+      "proxima centauri",
+      "neptune",
+      "space",
+      "astronomy",
+      "space facts"
+    ],
+    "category": "SCIENCE_TECHNOLOGY",
+    "status": "ready",
+    "facts": "builds/2026-11-10-sun-door/facts.md"
   }
 ]
