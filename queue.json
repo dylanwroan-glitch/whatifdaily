@@ -71,7 +71,11 @@
       "space facts"
     ],
     "category": "SCIENCE_TECHNOLOGY",
-    "status": "ready",
-    "facts": "builds/2026-11-10-sun-door/facts.md"
+    "status": "scheduled",
+    "facts": "builds/2026-11-10-sun-door/facts.md",
+    "postDate": "2026-11-10T18:38:00-06:00",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-3128963244922811315",
+    "metricoolPostId": 423851070,
+    "note": "Metricool holds its own copy (static.metricool.com); repo file removed."
   }
 ]

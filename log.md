@@ -4,6 +4,7 @@
 |---|---|---|---|---|
 | 2026-11-04 6:00 PM CT | what-if | What if all copper disappeared for 5 seconds? | published | [YouTube](https://www.youtube.com/shorts/BqL5TPm9IHg) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-5202755937602680592) |
 | 2026-11-08 6:00 PM CT | myth-vs-fact | 5 lightning "facts." Only one is true. | published | [YouTube](https://www.youtube.com/shorts/y5A5y8id8yk) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-8077389489859703737) |
+| 2026-11-10 6:38 PM CT | scale-shock | If the Sun were a door, where's Earth? | scheduled | [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-3128963244922811315) |
 
 ## Run notes
 
@@ -22,4 +23,10 @@
 - The 2:42 AM firing failed after 7 seconds with "usage limit reached" (scheduled-task status), so nothing ran until the session restarted at 5:06 PM CT. No run left a commit or post on Nov 5–7, 9 or 10 (the Nov 8 run was the only one that finished after Nov 4); the only failure reason on record is today's usage limit.
 - Metricool brand 7513806: YouTube connected. Both Shorts published: copper (Nov 4) and lightning (Nov 8, youtube.com/shorts/y5A5y8id8yk); lightning marked `published` in queue.json.
 - Queue had no `ready` video and nothing scheduled for today, and 6:00 PM was too close to make a video first, so today's slot goes to the video this run makes, scheduled for now + 20 minutes when it passes the quality gate.
+- Idea: scale shock (last format was myth vs fact): NASA's own analogy, "If the Sun were as tall as a typical front door, Earth would be the size of a nickel," carried through to the street, Neptune and the nearest star. Searches found no Short built on the door analogy; scale-of-the-solar-system videos exist, so the angle is the door, the 215 m walk down the street and the 1.4 laps around Earth to Proxima Centauri.
+- Sources: NASA Science (Earth, Sun and Neptune fact pages) and NASA Space Place (How Big is the Sun?), quotes read this run; every other number is scale math from those figures, labelled "SCALE MATH · NASA DATA" on screen. The km figure is shown as 57,600 (4.24 ly at door scale) so the counter, caption and math agree. Fact sheet: builds/2026-11-10-sun-door/facts.md.
+- Build: new world (porch with a 2 m Sun beside the door, Earth and a nickel on a side table, a suburban street with Earth landing on a mailbox, a town and the Neptune orbit from 24 km up, a warp to a red dwarf, a stylized globe with the trip drawn on it). PyPI and npm were unreachable, so the globe uses hand-drawn simplified coastlines. 16 shots, cuts every 2.2–3.8 s, 47.0 s.
+- Quality gate: passed. Stills contact sheets over three passes (moved Earth and the nickel above the caption band, cleared the porch post out of the reveal, fixed the camera blocked by the mailbox, made the aerial climb reach the Neptune ring while it grows, lifted the globe's night side), then 16 frames from the final file. Final upload file: 1080x1920, 30 fps, 1410 frames, 47.0 s, AAC stereo (peak -0.7 dB), 18.6 MB.
+- Scheduled with Metricool for 2026-11-10 6:38 PM CT (now + 20 min; post 423851070); Metricool copied the file to static.metricool.com, so videos/2026-11-10-sun-door.mp4 was removed.
+- Nothing is queued for tomorrow; tomorrow's run makes and schedules its own video.
 
