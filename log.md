@@ -4,7 +4,7 @@
 |---|---|---|---|---|
 | 2026-11-04 6:00 PM CT | what-if | What if all copper disappeared for 5 seconds? | published | [YouTube](https://www.youtube.com/shorts/BqL5TPm9IHg) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-5202755937602680592) |
 | 2026-11-08 6:00 PM CT | myth-vs-fact | 5 lightning "facts." Only one is true. | published | [YouTube](https://www.youtube.com/shorts/y5A5y8id8yk) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-8077389489859703737) |
-| 2026-11-10 6:38 PM CT | scale-shock | If the Sun were a door, where's Earth? | scheduled | [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-3128963244922811315) |
+| 2026-11-10 6:38 PM CT | scale-shock | If the Sun were a door, where's Earth? | published | [YouTube](https://www.youtube.com/shorts/7mpDBn5gpLo) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-3128963244922811315) |
 
 ## Run notes
 

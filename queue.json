@@ -71,11 +71,36 @@
       "space facts"
     ],
     "category": "SCIENCE_TECHNOLOGY",
-    "status": "scheduled",
+    "status": "published",
     "facts": "builds/2026-11-10-sun-door/facts.md",
     "postDate": "2026-11-10T18:38:00-06:00",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-3128963244922811315",
     "metricoolPostId": 423851070,
-    "note": "Metricool holds its own copy (static.metricool.com); repo file removed."
+    "note": "Metricool holds its own copy (static.metricool.com); repo file removed. Metricool reports it PUBLISHED.",
+    "youtubeUrl": "https://www.youtube.com/shorts/7mpDBn5gpLo"
+  },
+  {
+    "id": "2026-11-11-watch-32768",
+    "format": "hidden-in-plain-sight",
+    "title": "Why does your watch count to 32,768?",
+    "file": "2026-11-11-watch-32768.mp4",
+    "release": null,
+    "url": "https://raw.githubusercontent.com/dylanwroan-glitch/whatifdaily/main/videos/2026-11-11-watch-32768.mp4",
+    "description": "Why does your watch count to 32,768?\n\nMost quartz watches hide a tiny quartz tuning fork that vibrates 32,768 times a second, and the chip halves that 15 times to make exactly 1 tick per second. But the second itself is defined by cesium atoms, and NIST says its NIST-F4 clock, had it started 100 million years ago, would be off by less than a second today.\n\nSources: NIST (Timekeeping and clocks FAQs; NIST-F4 news release, April 2025), Live Science (Why is Quartz Used in Watches?). Halving math: 32,768 = 2^15.\n\n#shorts #science #watches #physics #atomicclock",
+    "tags": [
+      "quartz watch",
+      "how a watch works",
+      "32768",
+      "tuning fork",
+      "piezoelectric",
+      "atomic clock",
+      "cesium",
+      "nist",
+      "physics",
+      "science"
+    ],
+    "category": "SCIENCE_TECHNOLOGY",
+    "status": "ready",
+    "facts": "builds/2026-11-11-watch-32768/facts.md"
   }
 ]
