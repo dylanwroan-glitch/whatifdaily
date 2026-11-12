@@ -129,7 +129,11 @@
       "science"
     ],
     "category": "SCIENCE_TECHNOLOGY",
-    "status": "ready",
-    "facts": "builds/2026-11-12-hoover-pour/facts.md"
+    "status": "scheduled",
+    "facts": "builds/2026-11-12-hoover-pour/facts.md",
+    "postDate": "2026-11-12T18:00:00-06:00",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=4348262286811285446",
+    "metricoolPostId": 425501224,
+    "note": "Metricool holds its own copy (static.metricool.com); repo file removed."
   }
 ]
