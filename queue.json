@@ -100,11 +100,36 @@
       "science"
     ],
     "category": "SCIENCE_TECHNOLOGY",
-    "status": "scheduled",
+    "status": "published",
     "facts": "builds/2026-11-11-watch-32768/facts.md",
     "postDate": "2026-11-11T18:00:00-06:00",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=3150127056820193848",
     "metricoolPostId": 424228078,
-    "note": "Metricool holds its own copy (static.metricool.com); repo file removed."
+    "note": "Metricool holds its own copy (static.metricool.com); repo file removed. Metricool reports it PUBLISHED.",
+    "youtubeUrl": "https://www.youtube.com/shorts/MHt7JgNu8yU"
+  },
+  {
+    "id": "2026-11-12-hoover-pour",
+    "format": "simulation",
+    "title": "What if you poured Hoover Dam all at once?",
+    "file": "2026-11-12-hoover-pour.mp4",
+    "release": null,
+    "url": "https://raw.githubusercontent.com/dylanwroan-glitch/whatifdaily/main/videos/2026-11-12-hoover-pour.mp4",
+    "description": "What if Hoover Dam had been poured in one giant go?\n\nReclamation's engineers calculated the concrete would get so hot it would take 125 years to cool, and the stress would crack it apart. So they built it as columns, 5 feet at a time, with more than 582 miles of steel cooling pipe. All that heat could have baked 500,000 loaves of bread a day for 3 years.\n\nSources: U.S. Bureau of Reclamation (Hoover Dam: Concrete essay; Hoover Dam FAQs). 1933 + 125 years and 500,000 × 365 × 3 are simple math.\n\n#shorts #hooverdam #engineering #science #history",
+    "tags": [
+      "hoover dam",
+      "concrete",
+      "engineering",
+      "dam construction",
+      "mass concrete",
+      "cooling pipes",
+      "bureau of reclamation",
+      "simulation",
+      "history",
+      "science"
+    ],
+    "category": "SCIENCE_TECHNOLOGY",
+    "status": "ready",
+    "facts": "builds/2026-11-12-hoover-pour/facts.md"
   }
 ]

@@ -1,0 +1,60 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  html,body{margin:0;background:#000;overflow:hidden}
+  #stage{position:relative;width:1080px;height:1920px;overflow:hidden}
+  canvas{position:absolute;left:0;top:0;width:1080px;height:1920px}
+  #hud{position:absolute;inset:0;pointer-events:none;color:#fff;font-family:'Inter',sans-serif;-webkit-font-smoothing:antialiased}
+  .chip{position:absolute;font-weight:700;font-size:25px;letter-spacing:.16em;padding:13px 24px;border-radius:40px;
+        background:rgba(8,10,16,.5);border:1.5px solid rgba(255,255,255,.18);white-space:nowrap}
+  #title{position:absolute;left:80px;right:150px;top:250px;text-align:center;font-family:'Lora',serif;font-weight:600;font-size:100px;line-height:1.06;
+         text-shadow:0 4px 30px rgba(0,0,0,.85),0 0 3px rgba(0,0,0,.9)}
+  #title em{font-style:italic;color:#ffd45e}
+  #guess{left:50%;top:640px;transform:translateX(-50%);opacity:0;color:#ffd45e;border-color:rgba(255,212,94,.5);font-size:36px;padding:16px 34px}
+  #scale{left:50%;top:118px;transform:translateX(-50%);opacity:0;color:#ffd45e;border-color:rgba(255,212,94,.42);font-size:24px}
+  #counter{position:absolute;left:0;right:140px;padding-left:70px;top:205px;text-align:center;opacity:0}
+  #cv{font-family:'Inter Display','Inter';font-weight:800;font-size:140px;line-height:1;font-variant-numeric:tabular-nums;letter-spacing:-.02em;
+      text-shadow:0 4px 30px rgba(0,0,0,.75)}
+  #cv b{color:#ffd45e;font-weight:800}
+  #cl{margin-top:10px;font-weight:700;font-size:25px;letter-spacing:.22em;color:#cfe0ff;text-shadow:0 2px 10px rgba(0,0,0,.85)}
+  #cap{position:absolute;left:90px;right:150px;top:1110px;padding:50px 40px;text-align:center;opacity:0;
+       background:radial-gradient(ellipse at center,rgba(0,0,0,.55) 0%,rgba(0,0,0,.25) 55%,rgba(0,0,0,0) 76%)}
+  #capTxt{font-weight:800;font-size:66px;line-height:1.13;letter-spacing:-.01em;text-shadow:0 4px 22px rgba(0,0,0,.85),0 0 2px rgba(0,0,0,.9)}
+  #capTxt b{color:#ffd45e;font-weight:900}
+  #src{margin-top:22px;font-weight:700;font-size:23px;letter-spacing:.14em;opacity:.85;text-shadow:0 2px 10px rgba(0,0,0,.9)}
+  .lab{position:absolute;transform:translate(-50%,-50%);font-weight:900;font-size:44px;letter-spacing:.08em;color:#ffd45e;white-space:nowrap;opacity:0;
+       text-shadow:0 3px 18px rgba(0,0,0,.9),0 0 3px rgba(0,0,0,1)}
+  .lab.small{font-size:30px;color:#fff;letter-spacing:.16em}
+  #end{position:absolute;left:70px;right:140px;top:640px;text-align:center;opacity:0}
+  #end .e1{font-family:'Lora',serif;font-weight:600;font-size:96px;line-height:1.06;text-shadow:0 6px 34px rgba(0,0,0,.9)}
+  #end .e2{margin-top:34px;font-weight:800;font-size:42px;letter-spacing:.08em;color:#ffd45e;text-shadow:0 3px 16px rgba(0,0,0,.85)}
+</style></head>
+<body>
+<div id="stage">
+  <canvas id="c" width="1080" height="1920"></canvas>
+  <div id="hud">
+    <div id="scale" class="chip"></div>
+    <div id="counter"><div id="cv"></div><div id="cl"></div></div>
+    <div id="title">Pour Hoover Dam <em>all at once</em>. What happens?</div>
+    <div id="guess" class="chip">A SIMULATION · REAL NUMBERS</div>
+    <div id="lab0" class="lab"></div><div id="lab1" class="lab"></div><div id="lab2" class="lab"></div><div id="lab3" class="lab"></div><div id="lab4" class="lab"></div><div id="lab5" class="lab"></div>
+    <div id="cap"><div id="capTxt"></div><div id="src"></div></div>
+    <div id="end"><div class="e1">What should we simulate next?</div><div class="e2">COMMENT ↓</div></div>
+  </div>
+</div>
+<script type="module">
+  import { setup, renderAt, SHOTS, DURATION, FPS } from './scene.js';
+  window.__ready = false;
+  (async () => {
+    try {
+      await document.fonts.load('800 64px Inter'); await document.fonts.load('600 84px Lora'); await document.fonts.load('italic 600 84px Lora'); await document.fonts.load('800 100px "Inter Display"'); await document.fonts.load('900 100px "Inter Display"');
+      const q = new URLSearchParams(location.search);
+      const w = +(q.get('w') || 1080), hh = +(q.get('h') || 1920);
+      window.__info = await setup(document.getElementById('c'), w, hh, { msaa: +(q.get('msaa') ?? 4), reflDiv: +(q.get('refl') || 2), prepass: q.get('pre') === '1' });
+      window.renderAt = (t) => renderAt(t);
+      window.__meta = { SHOTS, DURATION, FPS };
+      window.__ready = true;
+    } catch (e) { window.__err = String(e && e.stack || e); }
+  })();
+</script>
+</body></html>
