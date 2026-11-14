@@ -160,11 +160,12 @@
       "physics"
     ],
     "category": "SCIENCE_TECHNOLOGY",
-    "status": "scheduled",
+    "status": "published",
     "facts": "builds/2026-11-13-coldest/facts.md",
     "postDate": "2026-11-13T18:13:00-06:00",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-2749470571772362710",
     "metricoolPostId": 427609080,
-    "note": "Metricool holds its own copy (static.metricool.com); repo file removed."
+    "note": "Metricool holds its own copy (static.metricool.com); repo file removed. Metricool reports it PUBLISHED.",
+    "youtubeUrl": "https://www.youtube.com/shorts/MGlF0qIgDXI"
   }
 ]
