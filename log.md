@@ -6,7 +6,8 @@
 | 2026-11-08 6:00 PM CT | myth-vs-fact | 5 lightning "facts." Only one is true. | published | [YouTube](https://www.youtube.com/shorts/y5A5y8id8yk) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-8077389489859703737) |
 | 2026-11-10 6:38 PM CT | scale-shock | If the Sun were a door, where's Earth? | published | [YouTube](https://www.youtube.com/shorts/7mpDBn5gpLo) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-3128963244922811315) |
 | 2026-11-11 6:00 PM CT | hidden-in-plain-sight | Why does your watch count to 32,768? | published | [YouTube](https://www.youtube.com/shorts/MHt7JgNu8yU) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=3150127056820193848) |
-| 2026-11-12 6:00 PM CT | simulation | What if you poured Hoover Dam all at once? | scheduled | [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=4348262286811285446) |
+| 2026-11-12 6:00 PM CT | simulation | What if you poured Hoover Dam all at once? | published | [YouTube](https://www.youtube.com/shorts/4a8hOvWIrJo) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=4348262286811285446) |
+| 2026-11-13 (tonight) | ranked-countdown | Where's the coldest place in the universe? (#1 is man-made) | ready | — |
 
 ## Run notes
 

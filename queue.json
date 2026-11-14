@@ -129,11 +129,38 @@
       "science"
     ],
     "category": "SCIENCE_TECHNOLOGY",
-    "status": "scheduled",
+    "status": "published",
     "facts": "builds/2026-11-12-hoover-pour/facts.md",
     "postDate": "2026-11-12T18:00:00-06:00",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=4348262286811285446",
     "metricoolPostId": 425501224,
-    "note": "Metricool holds its own copy (static.metricool.com); repo file removed."
+    "note": "Metricool holds its own copy (static.metricool.com); repo file removed. Metricool reports it PUBLISHED.",
+    "youtubeUrl": "https://www.youtube.com/shorts/4a8hOvWIrJo"
+  },
+  {
+    "id": "2026-11-13-coldest",
+    "format": "ranked-countdown",
+    "title": "Where's the coldest place in the universe? (#1 is man-made)",
+    "file": "2026-11-13-coldest.mp4",
+    "release": null,
+    "url": "https://raw.githubusercontent.com/dylanwroan-glitch/whatifdaily/main/videos/2026-11-13-coldest.mp4",
+    "description": "Where's the coldest place in the universe? #1 isn't natural at all.\n\nWe ranked 5 of the coldest places we know: Antarctica's record −89.2 °C, Pluto, the Big Bang's afterglow, the Boomerang Nebula, and a box on the space station where lasers chill atoms to about a ten-billionth of a degree above absolute zero.\n\nSources: World Meteorological Organization; NASA (Pluto Facts, Cold Atom Laboratory, Space Station Facts and Figures); NASA/JPL (The Coolest Experiment in the Universe); ESA/Hubble (Boomerang Nebula); NIST (absolute zero = −273.15 °C). −273.1499999999 °C is math: −273.15 °C plus one ten-billionth of a degree.\n\n#shorts #space #science #physics #coldest",
+    "tags": [
+      "coldest place in the universe",
+      "absolute zero",
+      "cold atom lab",
+      "boomerang nebula",
+      "pluto",
+      "antarctica",
+      "vostok station",
+      "space station",
+      "big bang",
+      "space",
+      "science",
+      "physics"
+    ],
+    "category": "SCIENCE_TECHNOLOGY",
+    "status": "ready",
+    "facts": "builds/2026-11-13-coldest/facts.md"
   }
 ]
