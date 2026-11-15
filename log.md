@@ -11,7 +11,7 @@
 | 2026-11-15 10:00 AM CT (planned) | time-lapse | Why hasn't the Leaning Tower of Pisa fallen? (850 years in 35 s) | in progress | — |
 | 2026-11-15 10:00 AM CT | what-if | What if ALL the water in the sky fell at once? | published | [YouTube](https://www.youtube.com/shorts/oYWzl36s9kQ) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=1256904577380536153) |
 | 2026-11-15 2:00 PM CT | scale-shock | Space is only 1 hour away by car. So why do astronauts float? | scheduled | [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=1102443232012158539) |
-| 2026-11-15 6:00 PM CT (planned) | simulation | What if you melted the Eiffel Tower? | in progress | — |
+| 2026-11-15 6:00 PM CT (planned) | simulation | What if you melted the Eiffel Tower? Guess how deep the puddle is | ready | — |
 
 ## Run notes
 

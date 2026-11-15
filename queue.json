@@ -226,5 +226,31 @@
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=1102443232012158539",
     "metricoolPostId": 428969800,
     "note": "Metricool holds its own copy (static.metricool.com); repo file removed."
+  },
+  {
+    "id": "2026-11-15-eiffel-melt",
+    "format": "simulation",
+    "title": "What if you melted the Eiffel Tower? Guess how deep the puddle is",
+    "file": "2026-11-15-eiffel-melt.mp4",
+    "release": null,
+    "url": "https://raw.githubusercontent.com/dylanwroan-glitch/whatifdaily/main/videos/2026-11-15-eiffel-melt.mp4",
+    "description": "What if you melted the Eiffel Tower? Guess how deep the puddle would be.\n\nAll 7,300 tonnes of its iron would fit in a cube just 9.8 m (32 ft) wide, small enough to sit under one of its own 25 m feet. Spread over its 125 m base, it would be only about 6 cm (2.3 in) deep. Gustave Eiffel wrote that resisting the wind came first, so he left the tower full of holes.\n\nSources: Tour Eiffel official site (Key figures), SETE press kit, July 2024 (with Gustave Eiffel's reply), Royal Society of Chemistry (iron's melting point), NIST (iron's density). The cube and the depth are math: 7,300 t ÷ 7.874 t/m³ = 927 m³; ∛927 = 9.75 m; 927 m³ ÷ (125 m)² = 5.9 cm.\n\n#shorts #eiffeltower #paris #science #engineering",
+    "tags": [
+      "eiffel tower",
+      "paris",
+      "what if",
+      "melting",
+      "iron",
+      "molten metal",
+      "engineering",
+      "gustave eiffel",
+      "simulation",
+      "landmarks",
+      "physics",
+      "science"
+    ],
+    "category": "SCIENCE_TECHNOLOGY",
+    "status": "ready",
+    "facts": "builds/2026-11-15-eiffel-melt/facts.md"
   }
 ]
