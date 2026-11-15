@@ -195,5 +195,31 @@
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=1256904577380536153",
     "metricoolPostId": 428800250,
     "note": "Metricool holds its own copy (static.metricool.com); repo file removed."
+  },
+  {
+    "id": "2026-11-15-space-drive",
+    "format": "scale-shock",
+    "title": "Space is only 1 hour away by car. So why do astronauts float?",
+    "file": "2026-11-15-space-drive.mp4",
+    "release": null,
+    "url": "https://raw.githubusercontent.com/dylanwroan-glitch/whatifdaily/main/videos/2026-11-15-space-drive.mp4",
+    "description": "Space is only 1 hour away... by car. So why do astronauts float?\n\nDrive straight up at 100 km/h and you'd pass Everest in about 5 minutes and cross the 100 km Kármán line in an hour. But astronauts don't float because gravity is gone: up at the space station it's still about 90%. They're falling, sideways, at about 28,000 km/h, so fast they keep missing the ground.\n\nSources: NASA (What Is Microgravity?; Space Station Facts and Figures; Moon Facts), FAI (the Kármán line), AP (Everest's 8,848.86 m height). Drive times are math at 100 km/h; 280× = 28,000 ÷ 100.\n\n#shorts #space #science #physics #iss",
+    "tags": [
+      "space",
+      "edge of space",
+      "karman line",
+      "space station",
+      "iss",
+      "astronauts",
+      "microgravity",
+      "orbit",
+      "gravity",
+      "physics",
+      "science",
+      "what if"
+    ],
+    "category": "SCIENCE_TECHNOLOGY",
+    "status": "ready",
+    "facts": "builds/2026-11-15-space-drive/facts.md"
   }
 ]
