@@ -8,6 +8,7 @@
 | 2026-11-11 6:00 PM CT | hidden-in-plain-sight | Why does your watch count to 32,768? | published | [YouTube](https://www.youtube.com/shorts/MHt7JgNu8yU) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=3150127056820193848) |
 | 2026-11-12 6:00 PM CT | simulation | What if you poured Hoover Dam all at once? | published | [YouTube](https://www.youtube.com/shorts/4a8hOvWIrJo) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=4348262286811285446) |
 | 2026-11-13 6:13 PM CT | ranked-countdown | Where's the coldest place in the universe? (#1 is man-made) | published | [YouTube](https://www.youtube.com/shorts/MGlF0qIgDXI) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-2749470571772362710) |
+| 2026-11-15 10:00 AM CT (planned) | time-lapse | Why hasn't the Leaning Tower of Pisa fallen? (850 years in 35 s) | in progress | — |
 
 ## Run notes
 
