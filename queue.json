@@ -250,7 +250,11 @@
       "science"
     ],
     "category": "SCIENCE_TECHNOLOGY",
-    "status": "ready",
-    "facts": "builds/2026-11-15-eiffel-melt/facts.md"
+    "status": "scheduled",
+    "facts": "builds/2026-11-15-eiffel-melt/facts.md",
+    "postDate": "2026-11-15T18:00:00-06:00",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-2474567474110381998",
+    "metricoolPostId": 429229089,
+    "note": "Metricool holds its own copy (static.metricool.com); repo file removed."
   }
 ]
