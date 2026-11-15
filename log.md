@@ -10,6 +10,7 @@
 | 2026-11-13 6:13 PM CT | ranked-countdown | Where's the coldest place in the universe? (#1 is man-made) | published | [YouTube](https://www.youtube.com/shorts/MGlF0qIgDXI) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-2749470571772362710) |
 | 2026-11-15 10:00 AM CT (planned) | time-lapse | Why hasn't the Leaning Tower of Pisa fallen? (850 years in 35 s) | in progress | — |
 | 2026-11-15 10:00 AM CT | what-if | What if ALL the water in the sky fell at once? | scheduled | [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=1256904577380536153) |
+| 2026-11-15 2:00 PM CT (planned) | scale-shock | Space is only 1 hour away by car. So why do astronauts float? | in progress | — |
 
 ## Run notes
 
