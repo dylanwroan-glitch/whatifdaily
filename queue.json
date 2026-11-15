@@ -219,7 +219,11 @@
       "what if"
     ],
     "category": "SCIENCE_TECHNOLOGY",
-    "status": "ready",
-    "facts": "builds/2026-11-15-space-drive/facts.md"
+    "status": "scheduled",
+    "facts": "builds/2026-11-15-space-drive/facts.md",
+    "postDate": "2026-11-15T14:00:00-06:00",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=1102443232012158539",
+    "metricoolPostId": 428969800,
+    "note": "Metricool holds its own copy (static.metricool.com); repo file removed."
   }
 ]
