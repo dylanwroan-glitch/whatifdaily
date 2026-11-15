@@ -9,8 +9,9 @@
 | 2026-11-12 6:00 PM CT | simulation | What if you poured Hoover Dam all at once? | published | [YouTube](https://www.youtube.com/shorts/4a8hOvWIrJo) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=4348262286811285446) |
 | 2026-11-13 6:13 PM CT | ranked-countdown | Where's the coldest place in the universe? (#1 is man-made) | published | [YouTube](https://www.youtube.com/shorts/MGlF0qIgDXI) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-2749470571772362710) |
 | 2026-11-15 10:00 AM CT (planned) | time-lapse | Why hasn't the Leaning Tower of Pisa fallen? (850 years in 35 s) | in progress | — |
-| 2026-11-15 10:00 AM CT | what-if | What if ALL the water in the sky fell at once? | scheduled | [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=1256904577380536153) |
+| 2026-11-15 10:00 AM CT | what-if | What if ALL the water in the sky fell at once? | published | [YouTube](https://www.youtube.com/shorts/oYWzl36s9kQ) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=1256904577380536153) |
 | 2026-11-15 2:00 PM CT | scale-shock | Space is only 1 hour away by car. So why do astronauts float? | scheduled | [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=1102443232012158539) |
+| 2026-11-15 6:00 PM CT (planned) | simulation | What if you melted the Eiffel Tower? | in progress | — |
 
 ## Run notes
 

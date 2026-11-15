@@ -189,12 +189,13 @@
       "usgs"
     ],
     "category": "SCIENCE_TECHNOLOGY",
-    "status": "scheduled",
+    "status": "published",
     "facts": "builds/2026-11-15-sky-water/facts.md",
     "postDate": "2026-11-15T10:00:00-06:00",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=1256904577380536153",
     "metricoolPostId": 428800250,
-    "note": "Metricool holds its own copy (static.metricool.com); repo file removed."
+    "note": "Metricool holds its own copy (static.metricool.com); repo file removed. Metricool reports it PUBLISHED.",
+    "youtubeUrl": "https://www.youtube.com/shorts/oYWzl36s9kQ"
   },
   {
     "id": "2026-11-15-space-drive",
