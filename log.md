@@ -11,9 +11,9 @@
 | 2026-11-15 10:00 AM CT | what-if | What if ALL the water in the sky fell at once? | published | [YouTube](https://www.youtube.com/shorts/oYWzl36s9kQ) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=1256904577380536153) |
 | 2026-11-15 2:00 PM CT | scale-shock | Space is only 1 hour away by car. So why do astronauts float? | published | [YouTube](https://www.youtube.com/shorts/k8ancE02n7I) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=1102443232012158539) |
 | 2026-11-15 6:00 PM CT | simulation | What if you melted the Eiffel Tower? Guess how deep the puddle is | published | [YouTube](https://www.youtube.com/shorts/xWoVITAtcY4) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-2474567474110381998) |
-| 2026-11-16 10:00 AM CT | character-comedy | POV: Your phone is at 1% | scheduled | [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-5076861940157231730) |
-| 2026-11-16 2:00 PM CT | mystery | One of them is lying. Can you catch it? (Case #1: The Midnight Diamond) | scheduled | [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-4833076696300305288) |
-| 2026-11-16 6:00 PM CT | narrated-explainer | If you melted the Eiffel Tower, the puddle would be just 6 cm deep | scheduled | [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=6488953650825872062) |
+| 2026-11-15 9:16 PM CT | character-comedy | POV: Your phone is at 1% | published | [YouTube](https://www.youtube.com/shorts/fVptgqyAWpM) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-5076861940157231730) |
+| 2026-11-15 9:17 PM CT | mystery | One of them is lying. Can you catch it? (Case #1: The Midnight Diamond) | published | [YouTube](https://www.youtube.com/shorts/SI1xAs061FE) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-4833076696300305288) |
+| 2026-11-15 9:18 PM CT | narrated-explainer | If you melted the Eiffel Tower, the puddle would be just 6 cm deep | published | [YouTube](https://www.youtube.com/shorts/D3yWI_nbPgI) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=6488953650825872062) |
 | — (not scheduled) | time-lapse | Why hasn't the Leaning Tower of Pisa fallen? (850 years in 36 s) | on hold: old format, not approved by the user | — |
 
 ## Run notes
@@ -118,3 +118,5 @@
 - Open: the Nov 14 Pisa claim still reads "planned for Nov 16, 10 AM CT". Nothing is scheduled in Metricool after Nov 15 6 PM. Don't build or schedule it without the user's approval.
 - Next: wait for the user's decisions (the review doc's first section). No new videos until then.
 - Later on Nov 15 the user approved all three pilots for posting. Scheduled in Metricool for Nov 16 at 10 AM (p2-phone), 2 PM (p3-noir) and 6 PM CT (p1-eiffel narrated re-cut), with YouTube's AI-content flag on because the voices are synthetic. Upload copies passed qc.py; Metricool copied them, so videos/ was cleared. The Pisa claim is on hold and its 10 AM slot went to p2-phone.
+- The user then asked to post them right away, so the three posts moved to 9:16, 9:17 and 9:18 PM CT on Nov 15 (new Metricool ids 429536175, 429536183, 429536187).
+- All three were published at 9:16–9:18 PM CT on Nov 15 (Metricool reports PUBLISHED; links in the table).
