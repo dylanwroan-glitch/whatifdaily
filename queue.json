@@ -280,10 +280,13 @@
       "animation"
     ],
     "category": "COMEDY",
-    "status": "ready",
+    "status": "scheduled",
     "facts": null,
     "source": "studio/pilots/p2-phone",
-    "note": "Studio v2 pilot 2; approved for posting by the user on 2026-11-15. Original fiction, no factual claims."
+    "note": "Studio v2 pilot 2; approved for posting by the user on 2026-11-15. Original fiction, no factual claims. Metricool holds its own copy (static.metricool.com); repo file removed. YouTube AI-content flag on (synthetic voices).",
+    "postDate": "2026-11-16T10:00:00-06:00",
+    "metricoolPostId": 429524118,
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-5076861940157231730"
   },
   {
     "id": "2026-11-16-midnight-diamond",
@@ -306,10 +309,13 @@
       "animation"
     ],
     "category": "FILM_ANIMATION",
-    "status": "ready",
+    "status": "scheduled",
     "facts": null,
     "source": "studio/pilots/p3-noir",
-    "note": "Studio v2 pilot 3; approved for posting by the user on 2026-11-15. Original fiction, no factual claims. The end card promises Case #2."
+    "note": "Studio v2 pilot 3; approved for posting by the user on 2026-11-15. Original fiction, no factual claims. The end card promises Case #2. Metricool holds its own copy (static.metricool.com); repo file removed. YouTube AI-content flag on (synthetic voices).",
+    "postDate": "2026-11-16T14:00:00-06:00",
+    "metricoolPostId": 429524148,
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-4833076696300305288"
   },
   {
     "id": "2026-11-16-eiffel-narrated",
@@ -334,9 +340,12 @@
       "narrated"
     ],
     "category": "SCIENCE_TECHNOLOGY",
-    "status": "ready",
+    "status": "scheduled",
     "facts": "builds/2026-11-15-eiffel-melt/facts.md",
     "source": "studio/pilots/p1-eiffel",
-    "note": "Studio v2 pilot 1, a narrated re-cut of the 2026-11-15 Eiffel melt Short; the user approved posting it on 2026-11-15 knowing it shares that topic."
+    "note": "Studio v2 pilot 1, a narrated re-cut of the 2026-11-15 Eiffel melt Short; the user approved posting it on 2026-11-15 knowing it shares that topic. Metricool holds its own copy (static.metricool.com); repo file removed. YouTube AI-content flag on (synthetic voices).",
+    "postDate": "2026-11-16T18:00:00-06:00",
+    "metricoolPostId": 429524176,
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=6488953650825872062"
   }
 ]
