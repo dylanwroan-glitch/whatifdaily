@@ -9,3 +9,4 @@ pilots/*/build/stills*/
 pilots/*/build/sheet*.jpg
 *.log
 __pycache__/
+pilots/*/concat.txt
