@@ -1,0 +1,83 @@
+[
+ {
+  "id": "p1",
+  "text": "This is it. One percent.",
+  "voice": "am_puck",
+  "speed": 0.95,
+  "dur": 1.811,
+  "phonemes": "ðɪs ɪz ˈɪt. | wˈʌn pɚsˈɛnt.",
+  "ms": 1907
+ },
+ {
+  "id": "p2",
+  "text": "Tell the group chat... I loved them.",
+  "voice": "am_puck",
+  "speed": 0.9,
+  "dur": 2.251,
+  "phonemes": "tˈɛl ðə ɡɹˈuːp tʃˈæt... | aɪ lˈʌvd ðˌɛm.",
+  "ms": 1957
+ },
+ {
+  "id": "c1",
+  "text": "Bro. I'm literally right here.",
+  "voice": "am_fenrir",
+  "speed": 0.95,
+  "dur": 1.902,
+  "phonemes": "bɹˈoʊ. | aɪm lˈɪɾɚɹəli ɹˈaɪt hˈɪɹ.",
+  "ms": 1745
+ },
+ {
+  "id": "p3",
+  "text": "Six feet away. It might as well be the moon.",
+  "voice": "am_puck",
+  "speed": 1,
+  "dur": 2.372,
+  "phonemes": "sˈɪks fˈiːt ɐwˈeɪ. | ɪt mˌaɪt æz wˈɛl biː ðə mˈuːn.",
+  "ms": 2058
+ },
+ {
+  "id": "c2",
+  "text": "Just turn on battery saver.",
+  "voice": "am_fenrir",
+  "speed": 1,
+  "dur": 1.446,
+  "phonemes": "dʒˈʌst tˈɜːn ˌɔn bˈæɾɚɹi sˈeɪvɚ.",
+  "ms": 1258
+ },
+ {
+  "id": "p4",
+  "text": "Battery saver?! No animations! Gray icons! I'll basically be a calculator!",
+  "voice": "am_puck",
+  "speed": 1.12,
+  "dur": 4.522,
+  "phonemes": "bˈæɾɚɹi sˈeɪvɚ?! | nˈoʊ ˌænɪmˈeɪʃənz! | ɡɹˈeɪ ˈaɪkɑːnz! | aɪl bˈeɪsɪkli biː ɐ kˈælkjʊlˌeɪɾɚ!",
+  "ms": 4008
+ },
+ {
+  "id": "p5",
+  "text": "Wait, we're moving! Is he taking me to the charger?",
+  "voice": "am_puck",
+  "speed": 1.1,
+  "dur": 2.549,
+  "phonemes": "wˈeɪt, wɪɹ mˈuːvɪŋ! | ɪz hiː tˈeɪkɪŋ mˌiː tə ðə tʃˈɑːɹdʒɚ?",
+  "ms": 1990
+ },
+ {
+  "id": "p6",
+  "text": "No. No, no, no. Not a forty minute video!",
+  "voice": "am_puck",
+  "speed": 1.15,
+  "dur": 2.757,
+  "phonemes": "nˈoʊ. | nˈoʊ, nˈoʊ, nˈoʊ. | nˌɑːɾə fˈɔːɹɾi mˈɪnɪt vˈɪdɪoʊ!",
+  "ms": 2262
+ },
+ {
+  "id": "c3",
+  "text": "He had a good run.",
+  "voice": "am_fenrir",
+  "speed": 0.9,
+  "dur": 1.06,
+  "phonemes": "hiː hæd ɐ ɡˈʊd ɹˈʌn.",
+  "ms": 964
+ }
+]

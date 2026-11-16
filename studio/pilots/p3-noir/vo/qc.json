@@ -1,0 +1,86 @@
+{
+ "n1": {
+  "match": 1.0,
+  "heard": "Midnight, the night of the new moon.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "n2": {
+  "match": 1.0,
+  "heard": "A blackout hits the Belmont Museum.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "n3": {
+  "match": 0.857,
+  "heard": "When the lights come back, the Belmont Star is gone, a 40 karat diamond.",
+  "diffs": [
+   [
+    "replace",
+    "forty carat",
+    "40 karat"
+   ]
+  ],
+  "numbers_as_digits": []
+ },
+ "n4": {
+  "match": 1.0,
+  "heard": "Three people were inside the cleaner.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "s1": {
+  "match": 1.0,
+  "heard": "I was mopping the East Hall.  I didn't hear a thing.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "n5": {
+  "match": 1.0,
+  "heard": "the curator.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "s2": {
+  "match": 0.875,
+  "heard": "I was in my office, reading by Candelight.",
+  "diffs": [
+   [
+    "replace",
+    "candlelight",
+    "candelight"
+   ]
+  ],
+  "numbers_as_digits": []
+ },
+ "n6": {
+  "match": 1.0,
+  "heard": "and the Night Guard.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "s3": {
+  "match": 1.0,
+  "heard": "I saw the thief run past the window.  His face was clear as day in the moonlight.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "n7": {
+  "match": 1.0,
+  "heard": "The detective closes her notebook.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "d1": {
+  "match": 1.0,
+  "heard": "Arrest the guard.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "n8": {
+  "match": 1.0,
+  "heard": "Did you catch it? There was no moonlight. It was a new moon.",
+  "diffs": [],
+  "numbers_as_digits": []
+ }
+}

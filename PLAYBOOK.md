@@ -1,5 +1,7 @@
 # Daily Shorts Playbook
 
+> **Paused since 2026-11-15.** The owner asked for a full overhaul and said not to make more videos in this format. The 3-a-day scheduled task is disabled. Do not make, queue or schedule new videos with this playbook. The replacement process is `studio/README.md`, and it starts only after the owner approves the pilot videos.
+
 This repo runs a YouTube Shorts channel on autopilot. **3 posts a day** at 10:00 AM, 2:00 PM and 6:00 PM America/Chicago (the user asked for at least 3 a day on 2026-11-13; those are the busiest hours in Metricool's best-time data). A scheduled Claude session runs 3 times a day; each run fills open slots from the queue and makes one new video. Everything is built in code: no stock footage, no AI video, no copied music.
 
 Channel lane: mind-blowing science, engineering, history and "what if" scenarios in under a minute. Every video is a different idea with real, sourced numbers.

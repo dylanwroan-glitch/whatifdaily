@@ -1,0 +1,110 @@
+[
+ {
+  "id": "n1",
+  "text": "Midnight. The night of the new moon.",
+  "voice": "bm_george",
+  "speed": 1,
+  "dur": 2.855,
+  "phonemes": "mˈɪdnaɪt. | ðə nˈaɪt ɒvðə njˈuː mˈuːn.",
+  "ms": 2461
+ },
+ {
+  "id": "n2",
+  "text": "A blackout hits the Belmont Museum.",
+  "voice": "bm_george",
+  "speed": 1.05,
+  "dur": 2.295,
+  "phonemes": "ɐ blˈakaʊt hˈɪts ðə bˈɛlmɒnt mjuːzˈiəm.",
+  "ms": 1726
+ },
+ {
+  "id": "n3",
+  "text": "When the lights come back, the Belmont Star is gone. A forty carat diamond.",
+  "voice": "bm_george",
+  "speed": 1.05,
+  "dur": 4.895,
+  "phonemes": "wˌɛn ðə lˈaɪts kˈʌm bˈak, ðə bˈɛlmɒnt stˈɑːɹ ɪz ɡˈɒn. | ɐ fˈɔːti kˈaɹat dˈaɪəmənd.",
+  "ms": 3572
+ },
+ {
+  "id": "n4",
+  "text": "Three people were inside. The cleaner.",
+  "voice": "bm_george",
+  "speed": 1.05,
+  "dur": 2.891,
+  "phonemes": "θɹˈiː pˈiːpəl wɜːɹ ɪnsˈaɪd. | ðə klˈiːnə.",
+  "ms": 2263
+ },
+ {
+  "id": "s1",
+  "text": "I was mopping the east hall. I didn't hear a thing.",
+  "voice": "af_nicole",
+  "speed": 1,
+  "dur": 3.379,
+  "phonemes": "aɪ wʌz mˈɑːpɪŋ ðɪ ˈiːst hˈɔːl. | aɪ dˈɪdnt hˈɪɹ ɐ θˈɪŋ.",
+  "ms": 3062
+ },
+ {
+  "id": "n5",
+  "text": "The curator.",
+  "voice": "bm_george",
+  "speed": 1.05,
+  "dur": 1.115,
+  "phonemes": "ðə kjʊəɹˈeɪtə.",
+  "ms": 973
+ },
+ {
+  "id": "s2",
+  "text": "I was in my office, reading by candlelight.",
+  "voice": "bf_emma",
+  "speed": 1,
+  "dur": 2.552,
+  "phonemes": "aɪ wɒz ɪn maɪ ˈɒfɪs, ɹˈiːdɪŋ baɪ kˈandəllˌaɪt.",
+  "ms": 1992
+ },
+ {
+  "id": "n6",
+  "text": "And the night guard.",
+  "voice": "bm_george",
+  "speed": 1.05,
+  "dur": 1.283,
+  "phonemes": "and ðə nˈaɪt ɡˈɑːd.",
+  "ms": 1019
+ },
+ {
+  "id": "s3",
+  "text": "I saw the thief run past the window. His face was clear as day in the moonlight.",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "dur": 4.394,
+  "phonemes": "aɪ sˈɔː ðə θˈiːf ɹˈʌn pˈæst ðə wˈɪndoʊ. | hɪz fˈeɪs wʌz klˈɪɹ æz dˈeɪ ɪnðə mˈuːnlaɪt.",
+  "ms": 3331
+ },
+ {
+  "id": "n7",
+  "text": "The detective closes her notebook.",
+  "voice": "bm_george",
+  "speed": 1,
+  "dur": 2.368,
+  "phonemes": "ðə dɪtˈɛktɪv klˈəʊzɪz hɜː nˈəʊtbʊk.",
+  "ms": 1666
+ },
+ {
+  "id": "d1",
+  "text": "Arrest the guard.",
+  "voice": "af_bella",
+  "speed": 1,
+  "dur": 0.906,
+  "phonemes": "ɚɹˈɛst ðə ɡˈɑːɹd.",
+  "ms": 970
+ },
+ {
+  "id": "n8",
+  "text": "Did you catch it? There was no moonlight. It was a new moon.",
+  "voice": "bm_george",
+  "speed": 1,
+  "dur": 4.367,
+  "phonemes": "dˈɪd juː kˈatʃ ɪt? | ðeəwˌɒz nˈəʊ mˈuːnlaɪt. | ɪt wʌzɐ njˈuː mˈuːn.",
+  "ms": 3626
+ }
+]

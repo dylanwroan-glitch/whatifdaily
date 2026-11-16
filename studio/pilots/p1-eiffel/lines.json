@@ -1,0 +1,204 @@
+[
+ {
+  "id": "h1",
+  "shot": "H_hook",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "text": "Let's melt the Eiffel Tower. Then guess how deep the puddle gets.",
+  "emph": [
+   "melt",
+   "Eiffel",
+   "deep"
+  ]
+ },
+ {
+  "id": "a1",
+  "shot": "A_tall",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "text": "Three hundred and thirty meters tall.",
+  "emph": [
+   "thirty"
+  ],
+  "src": "SOURCE \u00b7 TOUR EIFFEL (OFFICIAL SITE)"
+ },
+ {
+  "id": "a2",
+  "shot": "A_iron",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "text": "Seven thousand three hundred tonnes of iron.",
+  "emph": [
+   "Seven",
+   "thousand",
+   "three",
+   "hundred",
+   "tonnes"
+  ],
+  "src": "SOURCE \u00b7 TOUR EIFFEL (OFFICIAL SITE)"
+ },
+ {
+  "id": "a3",
+  "shot": "A_rivets",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "text": "Two and a half million rivets.",
+  "emph": [
+   "million"
+  ],
+  "src": "SOURCE \u00b7 TOUR EIFFEL (OFFICIAL SITE)"
+ },
+ {
+  "id": "b1",
+  "shot": "B_heat",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "text": "Now heat it past fifteen hundred degrees.",
+  "emph": [
+   "fifteen",
+   "hundred"
+  ],
+  "src": "IRON MELTS AT 1,538 \u00b0C \u00b7 ROYAL SOCIETY OF CHEMISTRY"
+ },
+ {
+  "id": "b2",
+  "shot": "B_top",
+  "voice": "af_heart",
+  "speed": 1.05,
+  "text": "The top goes first.",
+  "emph": [
+   "top"
+  ]
+ },
+ {
+  "id": "b3",
+  "shot": "B_mid",
+  "voice": "af_heart",
+  "speed": 1.05,
+  "text": "Then every floor.",
+  "emph": [
+   "floor"
+  ]
+ },
+ {
+  "id": "b4",
+  "shot": "B_legs",
+  "voice": "af_heart",
+  "speed": 1.05,
+  "text": "Then the legs.",
+  "emph": [
+   "legs"
+  ]
+ },
+ {
+  "id": "c1",
+  "shot": "C_cube",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "text": "Pour every drop into one cube,",
+  "emph": [
+   "cube"
+  ]
+ },
+ {
+  "id": "c2",
+  "shot": "C_size",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "text": "and it's just nine point eight meters wide.",
+  "emph": [
+   "nine",
+   "point",
+   "eight"
+  ],
+  "src": "MATH \u00b7 7,300 t \u00f7 7.874 t/m\u00b3 (NIST)"
+ },
+ {
+  "id": "c3",
+  "shot": "C_foot",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "text": "Small enough to fit under one of its own feet.",
+  "emph": [
+   "one"
+  ],
+  "src": "EACH PILLAR IS 25 M WIDE \u00b7 TOUR EIFFEL"
+ },
+ {
+  "id": "d1",
+  "shot": "D_spread",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "text": "Now spread it over the tower's base.",
+  "emph": [
+   "base"
+  ],
+  "src": "125 M SQUARE \u00b7 TOUR EIFFEL"
+ },
+ {
+  "id": "d2",
+  "shot": "D_tease",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "text": "How deep is the puddle?",
+  "emph": [
+   "deep"
+  ]
+ },
+ {
+  "id": "d3",
+  "shot": "D_reveal",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "text": "Six centimeters. Not even ankle deep.",
+  "emph": [
+   "Six",
+   "centimeters"
+  ],
+  "src": "MATH \u00b7 927 m\u00b3 \u00f7 (125 m \u00d7 125 m)"
+ },
+ {
+  "id": "d4",
+  "shot": "D_wide",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "text": "The Eiffel Tower is mostly air.",
+  "emph": [
+   "air"
+  ]
+ },
+ {
+  "id": "e1",
+  "shot": "E_why",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "text": "And that's on purpose. Eiffel's number one concern was the wind.",
+  "emph": [
+   "purpose",
+   "wind"
+  ],
+  "src": "GUSTAVE EIFFEL \u00b7 SETE PRESS KIT"
+ },
+ {
+  "id": "e2",
+  "shot": "E_holes",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "text": "So he built it full of holes, to let the wind through.",
+  "emph": [
+   "holes"
+  ],
+  "src": "GUSTAVE EIFFEL \u00b7 SETE PRESS KIT"
+ },
+ {
+  "id": "f1",
+  "shot": "F_end",
+  "voice": "af_heart",
+  "speed": 1.05,
+  "text": "Which landmark should we melt next?",
+  "emph": [
+   "melt",
+   "next"
+  ]
+ }
+]

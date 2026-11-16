@@ -1,0 +1,145 @@
+{
+ "h1": {
+  "match": 1.0,
+  "heard": "Let's melt the Eiffel Tower, then guess how deep the puddle gets.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "a1": {
+  "match": 0.545,
+  "heard": "300 and 30 meters tall.",
+  "diffs": [],
+  "numbers_as_digits": [
+   [
+    "replace",
+    "three hundred",
+    "300"
+   ],
+   [
+    "replace",
+    "thirty",
+    "30"
+   ]
+  ]
+ },
+ "a2": {
+  "match": 0.333,
+  "heard": "7,300 tons of iron.",
+  "diffs": [
+   [
+    "replace",
+    "seven thousand three hundred tonnes",
+    "7 300 tons"
+   ]
+  ],
+  "numbers_as_digits": []
+ },
+ "a3": {
+  "match": 1.0,
+  "heard": "two and a half million rivets.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "b1": {
+  "match": 0.769,
+  "heard": "Now heat it past 1500 degrees.",
+  "diffs": [],
+  "numbers_as_digits": [
+   [
+    "replace",
+    "fifteen hundred",
+    "1500"
+   ]
+  ]
+ },
+ "b2": {
+  "match": 1.0,
+  "heard": "The top goes first.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "b3": {
+  "match": 1.0,
+  "heard": "then every floor.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "b4": {
+  "match": 1.0,
+  "heard": "Then the legs.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "c1": {
+  "match": 1.0,
+  "heard": "Pour every drop into one cube.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "c2": {
+  "match": 0.667,
+  "heard": "and it's just 9.8 meters wide.",
+  "diffs": [],
+  "numbers_as_digits": [
+   [
+    "replace",
+    "nine point eight",
+    "9 8"
+   ]
+  ]
+ },
+ "c3": {
+  "match": 1.0,
+  "heard": "small enough to fit under one of its own feet.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "d1": {
+  "match": 1.0,
+  "heard": "Now spread it over the tower's base.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "d2": {
+  "match": 1.0,
+  "heard": "How deep is the puddle?",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "d3": {
+  "match": 0.833,
+  "heard": "6 centimeters, not even ankle deep.",
+  "diffs": [],
+  "numbers_as_digits": [
+   [
+    "replace",
+    "six",
+    "6"
+   ]
+  ]
+ },
+ "d4": {
+  "match": 1.0,
+  "heard": "The Eiffel Tower is mostly air.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "e1": {
+  "match": 1.0,
+  "heard": "And that's on purpose. Eiffel's number one concern was the wind.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "e2": {
+  "match": 1.0,
+  "heard": "So he built it full of holes to let the wind through.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "f1": {
+  "match": 1.0,
+  "heard": "Which landmark should we melt next?",
+  "diffs": [],
+  "numbers_as_digits": []
+ }
+}

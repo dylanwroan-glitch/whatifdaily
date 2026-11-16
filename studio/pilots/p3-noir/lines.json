@@ -1,0 +1,14 @@
+[
+ {"id":"n1","who":"NARRATOR","voice":"bm_george","speed":1.0,"text":"Midnight. The night of the new moon.","emph":["new","moon"]},
+ {"id":"n2","who":"NARRATOR","voice":"bm_george","speed":1.05,"text":"A blackout hits the Belmont Museum.","emph":["blackout"]},
+ {"id":"n3","who":"NARRATOR","voice":"bm_george","speed":1.05,"text":"When the lights come back, the Belmont Star is gone. A forty carat diamond.","emph":["gone","diamond"]},
+ {"id":"n4","who":"NARRATOR","voice":"bm_george","speed":1.05,"text":"Three people were inside. The cleaner.","emph":["Three","cleaner"]},
+ {"id":"s1","who":"CLEANER","voice":"af_nicole","speed":1.0,"text":"I was mopping the east hall. I didn't hear a thing.","emph":["mopping"]},
+ {"id":"n5","who":"NARRATOR","voice":"bm_george","speed":1.05,"text":"The curator.","emph":["curator"]},
+ {"id":"s2","who":"CURATOR","voice":"bf_emma","speed":1.0,"text":"I was in my office, reading by candlelight.","emph":["candlelight"]},
+ {"id":"n6","who":"NARRATOR","voice":"bm_george","speed":1.05,"text":"And the night guard.","emph":["guard"]},
+ {"id":"s3","who":"GUARD","voice":"am_michael","speed":1.05,"text":"I saw the thief run past the window. His face was clear as day in the moonlight.","emph":["moonlight"]},
+ {"id":"n7","who":"NARRATOR","voice":"bm_george","speed":1.0,"text":"The detective closes her notebook.","emph":["detective"]},
+ {"id":"d1","who":"DETECTIVE","voice":"af_bella","speed":1.0,"text":"Arrest the guard.","emph":["guard"]},
+ {"id":"n8","who":"NARRATOR","voice":"bm_george","speed":1.0,"text":"Did you catch it? There was no moonlight. It was a new moon.","emph":["no","moonlight","new","moon"]}
+]

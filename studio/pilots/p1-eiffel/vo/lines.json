@@ -1,0 +1,164 @@
+[
+ {
+  "id": "h1",
+  "text": "Let's melt the Eiffel Tower. Then guess how deep the puddle gets.",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "dur": 3.324,
+  "phonemes": "lˈɛts mˈɛlt ðɪ ˈaɪfəl tˈaʊɚ. | ðˈɛn ɡˈɛs hˌaʊ dˈiːp ðə pˈʌdəl ɡˈɛts.",
+  "ms": 3116
+ },
+ {
+  "id": "a1",
+  "text": "Three hundred and thirty meters tall.",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "dur": 1.931,
+  "phonemes": "θɹˈiː hˈʌndɹɪd ænd θˈɜːɾi mˈiːɾɚz tˈɔːl.",
+  "ms": 1577
+ },
+ {
+  "id": "a2",
+  "text": "Seven thousand three hundred tonnes of iron.",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "dur": 2.155,
+  "phonemes": "sˈɛvən θˈaʊzənd θɹˈiː hˈʌndɹɪd tˈʌnz ʌv ˈaɪɚn.",
+  "ms": 1899
+ },
+ {
+  "id": "a3",
+  "text": "Two and a half million rivets.",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "dur": 1.49,
+  "phonemes": "tˈuː ænd ɐ hˈæf mˈɪliən ɹˈɪvɪts.",
+  "ms": 1194
+ },
+ {
+  "id": "b1",
+  "text": "Now heat it past fifteen hundred degrees.",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "dur": 2.043,
+  "phonemes": "nˈaʊ hˈiːt ɪt pˈæst fˈɪftiːn hˈʌndɹɪd dᵻɡɹˈiːz.",
+  "ms": 1574
+ },
+ {
+  "id": "b2",
+  "text": "The top goes first.",
+  "voice": "af_heart",
+  "speed": 1.05,
+  "dur": 1.155,
+  "phonemes": "ðə tˈɑːp ɡoʊz fˈɜːst.",
+  "ms": 964
+ },
+ {
+  "id": "b3",
+  "text": "Then every floor.",
+  "voice": "af_heart",
+  "speed": 1.05,
+  "dur": 1.071,
+  "phonemes": "ðˈɛn ˈɛvɹi flˈoːɹ.",
+  "ms": 969
+ },
+ {
+  "id": "b4",
+  "text": "Then the legs.",
+  "voice": "af_heart",
+  "speed": 1.05,
+  "dur": 0.895,
+  "phonemes": "ðˈɛn ðə lˈɛɡz.",
+  "ms": 961
+ },
+ {
+  "id": "c1",
+  "text": "Pour every drop into one cube,",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "dur": 1.78,
+  "phonemes": "pˈoːɹ ˈɛvɹi dɹˈɑːp ˌɪntʊ wˈʌn kjˈuːb,",
+  "ms": 1365
+ },
+ {
+  "id": "c2",
+  "text": "and it's just nine point eight meters wide.",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "dur": 1.95,
+  "phonemes": "ænd ɪts dʒˈʌst nˈaɪn pˈɔɪnt ˈeɪt mˈiːɾɚz wˈaɪd.",
+  "ms": 1571
+ },
+ {
+  "id": "c3",
+  "text": "Small enough to fit under one of its own feet.",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "dur": 2.215,
+  "phonemes": "smˈɔːl ɪnˈʌf tə fˈɪt ˌʌndɚ wˈʌn ʌv ɪts ˈoʊn fˈiːt.",
+  "ms": 1716
+ },
+ {
+  "id": "d1",
+  "text": "Now spread it over the tower's base.",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "dur": 1.805,
+  "phonemes": "nˈaʊ spɹˈɛd ɪɾ ˌoʊvɚ ðə tˈaʊɚz bˈeɪs.",
+  "ms": 1408
+ },
+ {
+  "id": "d2",
+  "text": "How deep is the puddle?",
+  "voice": "af_heart",
+  "speed": 1,
+  "dur": 1.314,
+  "phonemes": "hˌaʊ dˈiːp ɪz ðə pˈʌdəl?",
+  "ms": 1146
+ },
+ {
+  "id": "d3",
+  "text": "Six centimeters. Not even ankle deep.",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "dur": 2.34,
+  "phonemes": "sˈɪks sˈɛntɪmˌiːɾɚz. | nˌɑːt ˈiːvən ˈæŋkəl dˈiːp.",
+  "ms": 1934
+ },
+ {
+  "id": "d4",
+  "text": "The Eiffel Tower is mostly air.",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "dur": 1.719,
+  "phonemes": "ðɪ ˈaɪfəl tˈaʊɚɹ ɪz mˈoʊstli ˈɛɹ.",
+  "ms": 1391
+ },
+ {
+  "id": "e1",
+  "text": "And that's on purpose. Eiffel's number one concern was the wind.",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "dur": 3.324,
+  "phonemes": "ænd ðæts ˌɔn pˈɜːpəs. | ˈaɪfəlz nˈʌmbɚ wˈʌn kənsˈɜːn wʌzðə wˈɪnd.",
+  "ms": 2501
+ },
+ {
+  "id": "e2",
+  "text": "So he built it full of holes, to let the wind through.",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "dur": 2.521,
+  "phonemes": "sˌoʊ hiː bˈɪlt ɪt fˈʊl ʌv hˈoʊlz, tə lˈɛt ðə wˈɪnd θɹˈuː.",
+  "ms": 1840
+ },
+ {
+  "id": "f1",
+  "text": "Which landmark should we melt next?",
+  "voice": "af_heart",
+  "speed": 1.05,
+  "dur": 1.693,
+  "phonemes": "wˌɪtʃ lˈændmɑːɹk ʃˌʊd wiː mˈɛlt nˈɛkst?",
+  "ms": 1391
+ }
+]

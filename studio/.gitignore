@@ -1,0 +1,11 @@
+# generated media: re-made by the pipeline, too big for git
+pilots/*/vo/*.wav
+pilots/*/vo/_spec.json
+pilots/*/mix.wav
+pilots/*/out/
+pilots/*/build/out/
+pilots/*/build/out3/
+pilots/*/build/stills*/
+pilots/*/build/sheet*.jpg
+*.log
+__pycache__/

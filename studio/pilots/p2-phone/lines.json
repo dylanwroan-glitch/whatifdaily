@@ -1,0 +1,11 @@
+[
+ {"id":"p1","who":"PHONE","voice":"am_puck","speed":0.95,"text":"This is it. One percent.","emph":["One","percent"]},
+ {"id":"p2","who":"PHONE","voice":"am_puck","speed":0.9,"text":"Tell the group chat... I loved them.","emph":["loved"]},
+ {"id":"c1","who":"CHARGER","voice":"am_fenrir","speed":0.95,"text":"Bro. I'm literally right here.","emph":["right","here"]},
+ {"id":"p3","who":"PHONE","voice":"am_puck","speed":1.0,"text":"Six feet away. It might as well be the moon.","emph":["moon"]},
+ {"id":"c2","who":"CHARGER","voice":"am_fenrir","speed":1.0,"text":"Just turn on battery saver.","emph":["battery","saver"]},
+ {"id":"p4","who":"PHONE","voice":"am_puck","speed":1.12,"text":"Battery saver?! No animations! Gray icons! I'll basically be a calculator!","emph":["calculator"]},
+ {"id":"p5","who":"PHONE","voice":"am_puck","speed":1.1,"text":"Wait, we're moving! Is he taking me to the charger?","emph":["charger"]},
+ {"id":"p6","who":"PHONE","voice":"am_puck","speed":1.15,"text":"No. No, no, no. Not a forty minute video!","emph":["forty","minute"]},
+ {"id":"c3","who":"CHARGER","voice":"am_fenrir","speed":0.9,"text":"He had a good run.","emph":["good","run"]}
+]

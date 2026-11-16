@@ -1,0 +1,68 @@
+{
+ "p1": {
+  "match": 0.667,
+  "heard": "This is it.  1%.",
+  "diffs": [],
+  "numbers_as_digits": [
+   [
+    "replace",
+    "one percent",
+    "1"
+   ]
+  ]
+ },
+ "p2": {
+  "match": 1.0,
+  "heard": "Tell the group chat.  I loved them.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "c1": {
+  "match": 1.0,
+  "heard": "Bro, I'm literally right here.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "p3": {
+  "match": 1.0,
+  "heard": "Six feet away, it might as well be the moon.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "c2": {
+  "match": 1.0,
+  "heard": "Just turn on Battery Saver.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "p4": {
+  "match": 1.0,
+  "heard": "Battery saver, no animations, gray icons, I'll basically be a calculator.",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "p5": {
+  "match": 1.0,
+  "heard": "Wait, we're moving.  Is he taking me to the charger?",
+  "diffs": [],
+  "numbers_as_digits": []
+ },
+ "p6": {
+  "match": 0.889,
+  "heard": "No, no, no, no, not a 40 minute video.",
+  "diffs": [],
+  "numbers_as_digits": [
+   [
+    "replace",
+    "forty",
+    "40"
+   ]
+  ]
+ },
+ "c3": {
+  "match": 1.0,
+  "heard": "He had a good run.",
+  "diffs": [],
+  "numbers_as_digits": []
+ }
+}
