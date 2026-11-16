@@ -251,11 +251,12 @@
       "science"
     ],
     "category": "SCIENCE_TECHNOLOGY",
-    "status": "scheduled",
+    "status": "published",
     "facts": "builds/2026-11-15-eiffel-melt/facts.md",
     "postDate": "2026-11-15T18:00:00-06:00",
     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-2474567474110381998",
     "metricoolPostId": 429229089,
-    "note": "Metricool holds its own copy (static.metricool.com); repo file removed."
+    "note": "Metricool holds its own copy (static.metricool.com); repo file removed. Metricool reports it PUBLISHED. Last video in the old fast style; the routine is paused pending the studio v2 review.",
+    "youtubeUrl": "https://www.youtube.com/shorts/xWoVITAtcY4"
   }
 ]

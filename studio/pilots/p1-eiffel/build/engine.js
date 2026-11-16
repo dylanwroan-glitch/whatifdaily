@@ -970,17 +970,24 @@ void main(){
       }
     } else if(mode < 1.5){
       vec3 an = abs(v_lnrm); vec2 fp = an.y > 0.5 ? v_wpos.xz : (an.x > 0.5 ? v_wpos.zy : v_wpos.xy); // face-aligned coords (m)
-      vec2 g = fp * 0.55 + vec2(seed * 7.0, u_time * 0.12); vec2 gi = floor(g), gf = fract(g); float d1 = 9.0, d2 = 9.0;
+      vec2 g = fp * 0.65 + vec2(seed * 7.0, u_time * 0.12); vec2 gi = floor(g), gf = fract(g); float d1 = 9.0, d2 = 9.0;
       for(int j = -1; j <= 1; j++) for(int i = -1; i <= 1; i++){ vec2 o = vec2(float(i), float(j)); vec2 c = o + vec2(hash12(gi + o), hash12(gi + o + 17.3)) * 0.8 + 0.1;
         float d = length(c - gf); if(d < d1){ d2 = d1; d1 = d; } else if(d < d2) d2 = d; }
       float edge = d2 - d1; float fwE = fwidth(edge) + 1e-3;
-      float cr = v_ex.z; float sw = 0.025 + 0.09 * (1.0 - cr); float crack = 1.0 - smoothstep(sw, sw + 0.03 + fwE, edge); // glowing seams between crust plates
+      float cr = v_ex.z; float sw = 0.016 + 0.07 * (1.0 - cr); float crack = 1.0 - smoothstep(sw, sw + 0.025 + fwE, edge); // glowing seams between crust plates
       float n2 = vnoise(v_wpos * 1.1 + vec3(u_time * 0.5));
-      float plate = step(0.01, cr) * (1.0 - crack);
       float h = heat * (0.88 + 0.24 * n2);
-      emis = mix(heatCol(h * 1.04), heatCol(h * mix(0.74, 0.3, cr)) * 0.9, plate);
+      // k = how formed the crust is: a fresh pour glows almost evenly; as it cools the plates go dark red, then near black,
+      // and only some cracks keep glowing (an even mesh of bright seams over lighter plates read as a giraffe print)
+      float k = smoothstep(0.1, 0.4, cr);
+      // cooling skin: irregular dark patches (multi-octave noise, no polygon cells) spread over the glowing metal as k grows;
+      // the thin cracks only show inside the skin, so the surface reads as hot metal skinning over, not a tiled print
+      float nA = vnoise(vec3(fp * 0.32, seed * 3.0 + u_time * 0.04)) * 0.55 + vnoise(vec3(fp * 1.1, seed * 5.0)) * 0.3 + vnoise(vec3(fp * 4.0, seed * 2.0)) * 0.15;
+      float skin = step(0.01, cr) * smoothstep(0.62 - 0.3 * k, 0.74 - 0.3 * k, nA) * k;
+      float plate = skin * (1.0 - crack * 0.85);
+      emis = mix(heatCol(h * 1.02), heatCol(h * 0.3) * 0.18, plate);
       alb = mix(vec3(0.02), vec3(0.03, 0.028, 0.026), plate);
-      specK = 0.35; shin = 80.0;
+      specK = mix(0.35, 0.08, k); shin = 80.0;
       float nv = 1.0 - max(dot(N, V), 0.0); emis *= 0.75 + 0.5 * nv;
     } else {
       vec3 lp = v_wpos;

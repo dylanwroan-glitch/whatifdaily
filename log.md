@@ -10,7 +10,7 @@
 | 2026-11-13 6:13 PM CT | ranked-countdown | Where's the coldest place in the universe? (#1 is man-made) | published | [YouTube](https://www.youtube.com/shorts/MGlF0qIgDXI) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-2749470571772362710) |
 | 2026-11-15 10:00 AM CT | what-if | What if ALL the water in the sky fell at once? | published | [YouTube](https://www.youtube.com/shorts/oYWzl36s9kQ) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=1256904577380536153) |
 | 2026-11-15 2:00 PM CT | scale-shock | Space is only 1 hour away by car. So why do astronauts float? | published | [YouTube](https://www.youtube.com/shorts/k8ancE02n7I) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=1102443232012158539) |
-| 2026-11-15 6:00 PM CT | simulation | What if you melted the Eiffel Tower? Guess how deep the puddle is | scheduled | [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-2474567474110381998) |
+| 2026-11-15 6:00 PM CT | simulation | What if you melted the Eiffel Tower? Guess how deep the puddle is | published | [YouTube](https://www.youtube.com/shorts/xWoVITAtcY4) · [Metricool](https://app.metricool.com/planner/calendar?blogId=7513806&openWithPostUuid=-2474567474110381998) |
 | 2026-11-16 10:00 AM CT (planned) | time-lapse | Why hasn't the Leaning Tower of Pisa fallen? (850 years in 36 s) | in progress | — |
 
 ## Run notes
@@ -106,3 +106,11 @@
 - Quality gate: passed. Five passes of stills contact sheets. Changes: the purple-grey sky became a blue afternoon sky and the paint a darker bronze; the whole-tower glow, the pool and the cube were toned down from white-hot; the camera in the legs shot was moved off the tree rows; the cube's crust pattern was reworked twice (the first version read as a giraffe print; now dark plates with thin glowing seams); the footprint shot was reframed as a low aerial with a faint ghost of the legs; a lamp post on a camera path was removed; the cooled sheet lost a red tint. Then 16 frames from the final file, plus the first and last frames for the loop. Two render processes ran in parallel (about 25 minutes); a doubled-up B_legs render was caught and that shot was re-rendered alone. Final upload file: 1080x1920, 30 fps, 996 frames, 33.2 s, AAC stereo (peak −1.2 dB; the score was retimed 0.69% to the frame-rounded cut), 15.7 MB.
 - Scheduled with Metricool for 2026-11-15 6:00 PM CT (post 429229089). Metricool copied the file to static.metricool.com, so videos/2026-11-15-eiffel-melt.mp4 was removed.
 - Next: all three of today's slots are filled; the 3:47 AM run makes the video for 10:00 AM on Nov 16.
+
+### 2026-11-15 (overhaul: started in the 12:47 PM CT run, continued into the evening)
+- The user asked for a complete overhaul and said not to make more videos in the old format. The 3-a-day scheduled task is disabled, and PLAYBOOK.md now opens with a pause banner.
+- Built studio v2 (see `studio/README.md`): Kokoro narration checked by Whisper, edits timed from the voice, word-synced captions, a shared audio toolkit, a final-file QC tool (`studio/qc.py`) and a setup script for fresh sessions.
+- Made three pilots and sent them to the user for review. None is published. p1-eiffel is a narrated re-cut and is not for posting; p2-phone is an animated comedy; p3-noir is a mystery. Review doc: https://claude.ai/artifact/H9k1ibwR3SQzA2C8wRwxRV
+- The Eiffel Short went out at 6 PM as the last old-format video, as the user chose: https://www.youtube.com/shorts/xWoVITAtcY4
+- Open: the Nov 14 Pisa claim still reads "planned for Nov 16, 10 AM CT". Nothing is scheduled in Metricool after Nov 15 6 PM. Don't build or schedule it without the user's approval.
+- Next: wait for the user's decisions (the review doc's first section). No new videos until then.
